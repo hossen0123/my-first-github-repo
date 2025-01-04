@@ -1,0 +1,9 @@
+div{
+    background-color: blue;
+    border: 20px dashed blueviolet;
+    margin: 20px;
+    padding: 10px 20px 30px;
+    width: 50%;
+    height: 200px;
+    box-shadow: 10px 20px 30px red;
+}
